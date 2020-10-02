@@ -1,0 +1,6 @@
+framework module FairBidSDK {
+  umbrella header "FairBidSDK.h"
+
+  export *
+  module * { export * }
+}
